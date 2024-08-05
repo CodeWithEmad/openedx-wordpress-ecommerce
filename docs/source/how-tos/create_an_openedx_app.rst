@@ -3,6 +3,8 @@ Create an Open edX Application for the Plugin Settings
 
 You will learn how to create an Open edX Application for filling out the form in the Open edX Sync Plugin Settings in our WordPress Settings.
 
+If you are using `Tutor`_ for managing your Open edX instance, you can install `tutor-contrib-wordpress`_ and use its commands to simplify the process.
+
 Index
 -------
 - `Requisites`_
@@ -42,3 +44,6 @@ Next Steps
 -----------
 
 - :doc:`How-to: Create enrollment requests manually </how-tos/create_enrollment_requests_manually>`.
+
+.. _Tutor: https://docs.tutor.edly.io
+.. _tutor-contrib-wordpress: https://github.com/CodeWithEmad/tutor-contrib-wordpress
